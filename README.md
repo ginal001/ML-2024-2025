@@ -1,5 +1,5 @@
 # ML-2024-2025
-Machine Learning class at MIMUW.
+Machine Learning course at The Faculty of Mathematics, Informatics and Mechanics of the University of Warsaw
 
 Homework1: https://github.com/ginal001/ML-2024-2025/blob/main/Lab1/Homework01.ipynb
 
