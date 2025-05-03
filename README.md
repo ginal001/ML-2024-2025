@@ -19,4 +19,4 @@ Homework8: https://github.com/ginal001/ML-2024-2025/blob/main/Lab8/Homework08.ip
 
 Remark: To view the full training animations, please open the notebook in Google Colab.
 
-Homework9:
+Homework9: https://github.com/ginal001/ML-2024-2025/blob/main/Lab9/Homework09.ipynb
