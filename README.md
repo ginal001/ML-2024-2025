@@ -22,3 +22,5 @@ Remark: To view the full training animations, please open the notebook in Google
 Homework9: https://github.com/ginal001/ML-2024-2025/blob/main/Lab9/Homework09.ipynb
 
 Homework10: https://github.com/ginal001/ML-2024-2025/blob/main/Lab10/Homework10.ipynb
+
+Homework11: https://github.com/ginal001/ML-2024-2025/blob/main/Lab11/Homework11.ipynb
