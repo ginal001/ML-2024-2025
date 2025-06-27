@@ -26,3 +26,5 @@ Homework10: https://github.com/ginal001/ML-2024-2025/blob/main/Lab10/Homework10.
 Homework11: https://github.com/ginal001/ML-2024-2025/blob/main/Lab11/Homework11.ipynb
 
 Homework12: https://github.com/ginal001/ML-2024-2025/blob/main/Lab12/Homework12.ipynb
+
+Homework13: https://github.com/ginal001/ML-2024-2025/blob/main/Lab13/Homework13.ipynb
